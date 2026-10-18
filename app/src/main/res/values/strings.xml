@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Campus Lost &amp; Found</string>
+    <string name="app_tagline">Reuniting lost belongings across campus</string>
+
+    <!-- Activity Titles -->
+    <string name="title_dashboard">Campus Lost &amp; Found</string>
+    <string name="title_add_item">Report Item</string>
+    <string name="title_edit_item">Edit Item</string>
+    <string name="title_item_detail">Item Details</string>
+
+    <!-- Filters & Tabs -->
+    <string name="filter_all">All Items</string>
+    <string name="filter_lost">Lost</string>
+    <string name="filter_found">Found</string>
+    <string name="filter_claimed">Claimed</string>
+
+    <!-- Form Labels & Hints -->
+    <string name="label_item_type">Item Type</string>
+    <string name="type_lost">Lost Item</string>
+    <string name="type_found">Found Item</string>
+    <string name="hint_item_title">Item Name (e.g. Blue Dell Laptop Charger)</string>
+    <string name="label_category">Category</string>
+    <string name="hint_location">Location (e.g. Library 2nd Floor, Room 304)</string>
+    <string name="hint_date">Date Reported / Lost / Found</string>
+    <string name="hint_contact_name">Contact Person Name</string>
+    <string name="hint_contact_phone">Contact Phone Number</string>
+    <string name="hint_description">Additional Description / Identifying Marks</string>
+
+    <!-- Buttons -->
+    <string name="btn_save">Save Report</string>
+    <string name="btn_update">Update Report</string>
+    <string name="btn_call">Call Contact</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_mark_claimed">Mark as Claimed / Recovered</string>
+
+    <!-- Search & Empty States -->
+    <string name="search_hint">Search items by title or location…</string>
+    <string name="no_items_found">No items found</string>
+    <string name="no_items_desc">Tap the + button below to report a lost or found item.</string>
+
+    <!-- Dialogs & Messages -->
+    <string name="delete_confirm_title">Delete Item</string>
+    <string name="delete_confirm_msg">Are you sure you want to permanently delete this report?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_saved_success">Item reported successfully!</string>
+    <string name="item_updated_success">Item updated successfully!</string>
+    <string name="item_deleted_success">Item deleted successfully!</string>
+    <string name="status_marked_claimed">Status updated to Claimed!</string>
+
+    <!-- Stats -->
+    <string name="stat_total">Total Reports</string>
+    <string name="stat_lost">Lost</string>
+    <string name="stat_found">Found</string>
+    <string name="stat_claimed">Resolved</string>
+</resources>

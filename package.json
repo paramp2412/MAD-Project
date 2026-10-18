@@ -1,0 +1,19 @@
+{
+  "name": "campus-lost-and-found-app",
+  "version": "1.0.0",
+  "description": "Campus Lost and Found Mobile Application with SQLite and Live Simulator",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "test": "java DataIntegrityTester.java"
+  },
+  "keywords": [
+    "android",
+    "java",
+    "sqlite",
+    "lost-and-found",
+    "mobile-app",
+    "mini-project"
+  ],
+  "author": "",
+  "license": "MIT"
+}

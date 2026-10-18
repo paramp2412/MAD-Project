@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_dark">#172554</color>
+    <color name="primary_light">#3B82F6</color>
+    <color name="accent">#0D9488</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider_color">#E2E8F0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <!-- Lost Badge Colors (Red / Coral) -->
+    <color name="badge_lost_bg">#FEE2E2</color>
+    <color name="badge_lost_text">#DC2626</color>
+
+    <!-- Found Badge Colors (Green / Emerald) -->
+    <color name="badge_found_bg">#D1FAE5</color>
+    <color name="badge_found_text">#059669</color>
+
+    <!-- Claimed Badge Colors (Purple) -->
+    <color name="badge_claimed_bg">#EDE9FE</color>
+    <color name="badge_claimed_text">#7C3AED</color>
+
+    <!-- Chip Filter Colors -->
+    <color name="chip_selected_bg">#1E3A8A</color>
+    <color name="chip_selected_text">#FFFFFF</color>
+    <color name="chip_unselected_bg">#EDF2F7</color>
+    <color name="chip_unselected_text">#475569</color>
+
+    <!-- Stats Box Colors -->
+    <color name="stat_lost_card">#FFF1F2</color>
+    <color name="stat_found_card">#ECFDF5</color>
+    <color name="stat_claimed_card">#F5F3FF</color>
+</resources>

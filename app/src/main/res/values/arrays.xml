@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_categories">
+        <item>Electronics &amp; Gadgets</item>
+        <item>Books &amp; Stationery</item>
+        <item>ID Cards &amp; Documents</item>
+        <item>Keys &amp; Keychains</item>
+        <item>Bags &amp; Wallets</item>
+        <item>Clothing &amp; Footwear</item>
+        <item>Bottles &amp; Lunchboxes</item>
+        <item>Sports &amp; Gym Gear</item>
+        <item>Other Belongings</item>
+    </string-array>
+
+    <string-array name="filter_categories">
+        <item>All Categories</item>
+        <item>Electronics &amp; Gadgets</item>
+        <item>Books &amp; Stationery</item>
+        <item>ID Cards &amp; Documents</item>
+        <item>Keys &amp; Keychains</item>
+        <item>Bags &amp; Wallets</item>
+        <item>Clothing &amp; Footwear</item>
+        <item>Bottles &amp; Lunchboxes</item>
+        <item>Sports &amp; Gym Gear</item>
+        <item>Other Belongings</item>
+    </string-array>
+</resources>
