@@ -66,7 +66,6 @@ MDA Project/
 ├── settings.gradle                           # Subproject inclusions
 ├── gradle.properties                         # JVM arguments and AndroidX flags
 ├── PROJECT_REPORT.md                         # Formal academic mini-project report
-├── VIVA_AND_DEMO_GUIDE.md                    # Team roles, contribution & viva questions
 └── README.md                                 # Setup and project guide
 ```
 
